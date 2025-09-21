@@ -1,0 +1,23 @@
+{
+  "name": "cicd-projetoemellyn",
+  "version": "1.0.0",
+  "description": "- Abra o index.html no navegador.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvaemellyn3-dot/cicd-projetoemellyn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvaemellyn3-dot/cicd-projetoemellyn/issues"
+  },
+  "homepage": "https://github.com/silvaemellyn3-dot/cicd-projetoemellyn#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
